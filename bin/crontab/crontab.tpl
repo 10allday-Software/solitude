@@ -2,7 +2,7 @@
 # %(header)s
 #
 
-MAILTO=amo-developers@mozilla.org
+MAILTO=amo-developers@10allday.com
 
 HOME=/tmp
 
